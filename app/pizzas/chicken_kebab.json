@@ -1,0 +1,39 @@
+{
+    "allergens": [
+        "Ei",
+        "Gluten",
+        "Melk",
+        "Mosterd",
+        "Soja",
+        "Sulfiet"
+    ],
+    "description": "De pizza Chicken Kebab is een zeer geliefde pizza. Met ingrediënten als: chicken kebab, rode ui, mozzarella en een swirl saus van knoflooksaus. Het verse deeg met 100% mozzarella kaas komt de pizza helemaal tot zijn recht.",
+    "id": "chicken_kebab",
+    "ingredients": [
+        "Tomatensaus",
+        "mozzarella",
+        "rode ui",
+        "chicken-kebab",
+        "knoflooksaus"
+    ],
+    "images": [
+        "img/pizzas/chicken_kebab1.png",
+        "img/pizzas/chicken_kebab2.png"
+    ], 
+    "name": "CHICKEN KEBAB",
+    "nutrients": {
+        "Energie": "874 kJ",
+        "Calorieën": "208 kcal",
+        "Vet": "7,9 g",
+        "Koolhydraten": "23 g",
+        "Suikers": "2,9 g",
+        "Voedingsvezels": "0,6 g",
+        "Eiwitten": "10,9 g",
+        "Calcium": "67 mg",
+        "Zout": "528 mg",
+        "AGS": "3,2 g"
+    },
+    "price": "7,99",
+    "size": "30 cm",
+    "weight": "661 g"
+}

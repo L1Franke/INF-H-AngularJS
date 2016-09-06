@@ -1,0 +1,161 @@
+[
+  {
+    "allergens": [
+      "Gluten",
+      "Melk",
+      "Mosterd",
+      "Soja",
+      "Sulfiet"
+    ],
+    "description": "Voor een echte smaaksensatie kies je voor de pizza BBQ Mixed Grill. Door de combinatie van verschillende vleessoorten met BBQ saus heb je een unieke combinatie. Dit met een toevoeging van rode ui en paprika maakt de pizza helemaal compleet.",
+    "id": "bbq_mixed_grill",
+    "ingredients": [
+      "BBQ saus",
+      "mozzarella",
+      "rode ui",
+      "paprika",
+      "gehakt",
+      "bacon",
+      "ham",
+      "gegrilde kip"
+    ],
+    "images": [
+      "img/pizzas/bbq_mixed_grill1.png",
+      "img/pizzas/bbq_mixed_grill2.png"
+    ],
+    "name": "BBQ MIXED GRILL",
+    "nutrients": {
+      "Energie": "919 kJ",
+      "Calorieën": "216 kcal",
+      "Vet": "8,2 g",
+      "Koolhydraten": "25,4 g",
+      "Suikers": "5,1 g",
+      "Voedingsvezels": "0,6 g",
+      "Eiwitten": "10,6 g",
+      "Calcium": "71 mg",
+      "Zout": "594 mg",
+      "AGS": "3,9 g"
+    },
+    "price": "7,99",
+    "size": "30 cm",
+    "weight": "635 g"
+  },
+  {
+    "allergens": [
+      "Ei",
+      "Gluten",
+      "Melk",
+      "Mosterd",
+      "Soja",
+      "Sulfiet"
+    ],
+    "description": "De pizza Chicken Kebab is een zeer geliefde pizza. Met ingrediënten als: chicken kebab, rode ui, mozzarella en een swirl saus van knoflooksaus. Het verse deeg met 100% mozzarella kaas komt de pizza helemaal tot zijn recht.",
+    "id": "chicken_kebab",
+    "ingredients": [
+      "Tomatensaus",
+      "mozzarella",
+      "rode ui",
+      "kip",
+      "knoflooksaus"
+    ],
+    "images": [
+      "img/pizzas/chicken_kebab1.png",
+      "img/pizzas/chicken_kebab2.png"
+    ],
+    "name": "CHICKEN KEBAB",
+    "nutrients": {
+      "Energie": "874 kJ",
+      "Calorieën": "208 kcal",
+      "Vet": "7,9 g",
+      "Koolhydraten": "23 g",
+      "Suikers": "2,9 g",
+      "Voedingsvezels": "0,6 g",
+      "Eiwitten": "10,9 g",
+      "Calcium": "67 mg",
+      "Zout": "528 mg",
+      "AGS": "3,2 g"
+    },
+    "price": "7,99",
+    "size": "30 cm",
+    "weight": "661 g"
+  },
+  {
+    "allergens": [
+      "Gluten",
+      "Melk",
+      "Mosterd",
+      "Soja",
+      "Sulfiet"
+    ],
+    "description": "De pizza Extravaganzza is een pizza die niet vergeten mag worden. Deze pizza is erg populair. Dit komt voornamelijk door de combinatie van de vele ingrediënten die de pizza tot een waar genot maken.",
+    "id": "extravaganzza",
+    "ingredients": [
+      "Tomatensaus",
+      "mozzarella",
+      "rode ui",
+      "paprika",
+      "pepperoni",
+      "ham",
+      "gehakt",
+      "champignons",
+      "olijven"
+    ],
+    "images": [
+      "img/pizzas/extravaganzza1.png",
+      "img/pizzas/extravaganzza2.png"
+    ],
+    "name": "EXTRAVAGANZZA",
+    "nutrients": {
+      "Energie": "901 kJ",
+      "Calorieën": "215 kcal",
+      "Vet": "9,7 g",
+      "Koolhydraten": "21,1 g",
+      "Suikers": "2,8 g",
+      "Voedingsvezels": "0,8 g",
+      "Eiwitten": "10,4 g",
+      "Calcium": "86 mg",
+      "Zout": "594 mg",
+      "AGS": "4,7 g"
+    },
+    "price": "7,99",
+    "size": "30 cm",
+    "weight": "686 g"
+  },
+  {
+    "allergens": [
+      "Gluten",
+      "Melk",
+      "Soja",
+      "Sulfiet"
+    ],
+    "description": "De Pizza Quattro Formaggi is een klassieke vegetarische pizza met crème fraîch, mozzarella, geitenkaas, emmentaler & gorgonzola. Het is de ideale pizza voor de echte kaas liefhebber. Doordat er vele soorten kaas op de pizza zit, is het een smaakvolle pizza. Na het eten van de Quattro Formaggi Pizza ben je goed verzadigd.",
+    "id": "four_cheese",
+    "ingredients": [
+      "Crème fraîch",
+      "mozzarella",
+      "geitenkaas",
+      "emmentaler",
+      "gorgonzola"
+    ],
+    "images": [
+      "img/pizzas/four_cheese1.png",
+      "img/pizzas/four_cheese2.png"
+    ],
+    "name": "FOUR CHEESE",
+    "nutrients": {
+      "Energie": "901 kJ",
+      "Calorieën": "226 kcal",
+      "Vet": "11,6 g",
+      "Koolhydraten": "21,7 g",
+      "Suikers": "2,1 g",
+      "Voedingsvezels": "0,6 g",
+      "Eiwitten": "14,4 g",
+      "Calcium": "75 mg",
+      "Zout": "643 mg",
+      "AGS": "4,9 g"
+    },
+    "price": "6,99",
+    "size": "30 cm",
+    "weight": "675 g"
+  }
+]

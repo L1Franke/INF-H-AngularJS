@@ -1,0 +1,16 @@
+/* app css stylesheet */
+
+body {
+  padding-top: 20px;
+}
+
+.thumbnail {
+  border: 0 none;
+  box-shadow: none;
+}
+
+li.borderless {
+  padding: 0;
+  border: 0 none;
+  background: transparent;
+}

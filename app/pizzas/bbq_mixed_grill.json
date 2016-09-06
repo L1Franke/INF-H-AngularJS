@@ -1,0 +1,41 @@
+{
+    "allergens": [
+        "Gluten",
+        "Melk",
+        "Mosterd",
+        "Soja",
+        "Sulfiet"
+    ],
+    "description": "Voor een echte smaaksensatie kies je voor de pizza BBQ Mixed Grill. Door de combinatie van verschillende vleessoorten met BBQ saus heb je een unieke combinatie. Dit met een toevoeging van rode ui en paprika maakt de pizza helemaal compleet.",
+    "id": "bbq_mixed_grill",
+    "ingredients": [
+        "BBQ saus",
+        "mozzarella",
+        "rode ui",
+        "paprika",
+        "gehakt",
+        "bacon",
+        "ham",
+        "gegrilde kip"
+    ],
+    "images": [
+        "img/pizzas/bbq_mixed_grill1.png",
+        "img/pizzas/bbq_mixed_grill2.png"
+    ], 
+    "name": "BBQ MIXED GRILL",
+    "nutrients": {
+        "Energie": "919 kJ",
+        "Calorieën": "216 kcal",
+        "Vet": "8,2 g",
+        "Koolhydraten": "25,4 g",
+        "Suikers": "5,1 g",
+        "Voedingsvezels": "0,6 g",
+        "Eiwitten": "10,6 g",
+        "Calcium": "71 mg",
+        "Zout": "594 mg",
+        "AGS": "3,9 g"
+    },
+    "price": "7,99",
+    "size": "30 cm",
+    "weight": "635 g"
+}

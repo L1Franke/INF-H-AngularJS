@@ -1,0 +1,42 @@
+{
+    "allergens": [
+        "Gluten",
+        "Melk",
+        "Mosterd",
+        "Soja",
+        "Sulfiet"
+    ],
+    "description": "De pizza Extravaganzza is een pizza die niet vergeten mag worden. Deze pizza is erg populair. Dit komt voornamelijk door de combinatie van de vele ingrediënten die de pizza tot een waar genot maken.",
+    "id": "extravaganzza",
+    "ingredients": [
+        "Tomatensaus",
+        "mozzarella",
+        "rode ui",
+        "paprika",
+        "pepperoni",
+        "ham",
+        "gehakt",
+        "champignons",
+        "olijven"
+    ],
+    "images": [
+        "img/pizzas/extravaganzza1.png",
+        "img/pizzas/extravaganzza2.png"
+    ], 
+    "name": "EXTRAVAGANZZA",
+    "nutrients": {
+        "Energie": "901 kJ",
+        "Calorieën": "215 kcal",
+        "Vet": "9,7 g",
+        "Koolhydraten": "21,1 g",
+        "Suikers": "2,8 g",
+        "Voedingsvezels": "0,8 g",
+        "Eiwitten": "10,4 g",
+        "Calcium": "86 mg",
+        "Zout": "594 mg",
+        "AGS": "4,7 g"
+    },
+    "price": "7,99",
+    "size": "30 cm",
+    "weight": "686 g"
+}

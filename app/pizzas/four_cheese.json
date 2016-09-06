@@ -1,0 +1,37 @@
+{
+    "allergens": [
+        "Gluten",
+        "Melk",
+        "Soja",
+        "Sulfiet"
+    ],
+    "description": "De Pizza Quattro Formaggi is een klassieke vegetarische pizza met crème fraîch, mozzarella, geitenkaas, emmentaler & gorgonzola. Het is de ideale pizza voor de echte kaas liefhebber. Doordat er vele soorten kaas op de pizza zit, is het een smaakvolle pizza. Na het eten van de Quattro Formaggi Pizza ben je goed verzadigd.",
+    "id": "four_cheese",
+    "ingredients": [
+        "Crème fraîch",
+        "mozzarella",
+        "geitenkaas",
+        "emmentaler",
+        "gorgonzola"
+    ],
+    "images": [
+        "img/pizzas/four_cheese1.png",
+        "img/pizzas/four_cheese2.png"
+    ], 
+    "name": "FOUR CHEESE",
+    "nutrients": {
+        "Energie": "901 kJ",
+        "Calorieën": "226 kcal",
+        "Vet": "11,6 g",
+        "Koolhydraten": "21,7 g",
+        "Suikers": "2,1 g",
+        "Voedingsvezels": "0,6 g",
+        "Eiwitten": "14,4 g",
+        "Calcium": "75 mg",
+        "Zout": "643 mg",
+        "AGS": "4,9 g"
+    },
+    "price": "6,99",
+    "size": "30 cm",
+    "weight": "675 g"
+}
